@@ -24,7 +24,7 @@ From developing remote surveillance monitoring dashboards for government-level C
 ![mongodb](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/mongodb.svg)
 ![nodejs](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/nodejs.svg)
 
-- 🔭 **Currently Working On**: A multi-tenant SaaS application for financial services and cash-out businesses.
+- 🔭 **Currently Working On**: A multi-tenant SaaS application for financial services and cash-out businesses in Myanmar.
 - 🌱 **Learning**: Constantly refining my knowledge and exploring to DevOps field.
 - 💬 **Ask me about**: Node.js, React, ORM, Database Schema Design, and TailwindCSS.
 - ⚡ **Beyond Coding**: I enjoy competitive mobile gaming and reading.
