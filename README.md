@@ -2,11 +2,13 @@
 
 ### Hi there 👋
 
-An enthusiastic and highly motivated fullstack developer with demonstrated experiences in Software Engineering who believes in hard work. Able to learn and adapt new technologies at a very fast pace. Studied Japanese Language N2.
+I am an enthusiastic and highly motivated fullstack engineer with demonstrated experiences in Software Engineering who believes in hard work. Able to learn and adapt new technologies at a very fast pace. I’m a firm believer in hard work, clean code, and building systems that are designed to last.
 
 ### Dev Profile :star2:
 
-My first back-end language is PHP. Laravel comes later in my back-end toolbox. Now, I'm working projects with Node. I have also some experience in Java and OOP. As database, I'm pretty confident working with MySQL and MongoDB. In the front-word, I make things nice using TailwindCSS and React.
+My background is rooted in the JavaScript and PHP ecosystems, where I have spent years building and maintaining complex web applications. I have a deep interest in modern UI/UX design and typography, ensuring that the systems I architect are as intuitive as they are efficient.
+
+From developing remote surveillance monitoring dashboards for government-level CCTV systems to building multi-tenant SaaS platforms, I focus on creating systems that handle scale and performance with precision.
 
 #### Things I code with
 
@@ -22,10 +24,10 @@ My first back-end language is PHP. Laravel comes later in my back-end toolbox. N
 ![mongodb](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/mongodb.svg)
 ![nodejs](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/nodejs.svg)
 
-- 🔭 I’m currently working as a fullstack developer in a Singapore-based company remotely.
-- 🌱 I’m currently polishing my knowledge in JavaScript.
-- 🤔 I’m currently studying how to draw.
-- 💬 Ask me about sequelizeORM, MySQL, React, Redux, Node and how to cook.
+- 🔭 **Currently Working On**: A multi-tenant SaaS application for financial services and cash-out businesses.
+- 🌱 **Learning**: Constantly refining my knowledge and exploring to DevOps field.
+- 💬 **Ask me about**: Node.js, React, ORM, Database Schema Design, and TailwindCSS.
+- ⚡ **Beyond Coding**: I enjoy competitive mobile gaming and reading.
 
 ### Where to find me :bell:
 
