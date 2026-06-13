@@ -116,8 +116,7 @@ values hard work, clean code, and building reliable systems designed to last.
 
 ## Let's Connect
 
-portfolio: <a href="https://mrhpn.com" target="_blank">`https://mrhpn.com`</a> ↗
+portfolio: <a href="https://mrhpn.com" target="_blank">`https://mrhpn.com`</a>
 <br/> linkedin: <a href="https://linkedin.com/in/mrhpn" target="_blank">`mrhpn`
-</a> ↗ <br/> telegram:
-<a href="https://t.me/mrhpnn" target="_blank">`@mrhpnn`</a> ↗ <br/> email:
-<a href="mailto:hello@mrhpn.com">`hello@mrhpn.com`</a> ↗
+</a> <br/> telegram: <a href="https://t.me/mrhpnn" target="_blank">`@mrhpnn`</a>
+<br/> email: <a href="mailto:hello@mrhpn.com">`hello@mrhpn.com`</a>
