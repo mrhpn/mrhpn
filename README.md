@@ -2,14 +2,14 @@
   <img src="./assets/imgs/banner/image.webp" alt="Hello, I'm hpn" />
 </p>
 
-<p align="center"><a href="https://mrhpn.com" target="_blank"><img src="./assets/badges/intro/portfolio.svg" alt="profile views" /></a>
-<a href="https://linkedin.com/in/mrhpn" target="_blank"><img src="./assets/badges/contacts/linkedin.svg" alt="linkedin" /></a>
+<p align="center"><a href="https://mrhpn.com"><img src="./assets/badges/intro/portfolio.svg" alt="profile views" /></a>
+<a href="https://linkedin.com/in/mrhpn"><img src="./assets/badges/contacts/linkedin.svg" alt="linkedin" /></a>
 <a href="mailto:hello@mrhpn.com"><img src="./assets/badges/contacts/gmail.svg" alt="email" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrhpn&label=Profile%20Views&color=f97316&style=flat" alt="profile views" /> </p>
 
 ## ✨ About Me
 
-```
+```ts
 const hpn = {
   name       : "Htet Phyo Naing",
   nickname   : "hp",
@@ -116,7 +116,7 @@ values hard work, clean code, and building reliable systems designed to last.
 
 ## Let's Connect
 
-portfolio: <a href="https://mrhpn.com" target="_blank">`https://mrhpn.com`</a>
-<br/> linkedin: <a href="https://linkedin.com/in/mrhpn" target="_blank">`mrhpn`
-</a> <br/> telegram: <a href="https://t.me/mrhpnn" target="_blank">`@mrhpnn`</a>
+portfolio: <a href="https://mrhpn.com">`https://mrhpn.com`</a>
+<br/> linkedin: <a href="https://linkedin.com/in/mrhpn">`mrhpn`
+</a> <br/> telegram: <a href="https://t.me/mrhpnn">`@mrhpnn`</a>
 <br/> email: <a href="mailto:hello@mrhpn.com">`hello@mrhpn.com`</a>
