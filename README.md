@@ -35,12 +35,15 @@ values hard work, clean code, and building reliable systems designed to last.
 
 ### 📝 Languages
 
+<p align="left">
 <img src="./assets/badges/languages/javascript.svg" alt="" />
 <img src="./assets/badges/languages/typescript.svg" alt="" />
 <img src="./assets/badges/languages/golang.svg" alt="" />
+</p>
 
 ### 🎨 Frontend
 
+<p align="left">
 <img src="./assets/badges/frontend/react.svg" alt="" />
 <img src="./assets/badges/frontend/nextjs.svg" alt="" />
 <img src="./assets/badges/frontend/astro.svg" alt="" />
@@ -58,9 +61,11 @@ values hard work, clean code, and building reliable systems designed to last.
 <img src="./assets/badges/frontend/apolloclient.svg" alt="" />
 <img src="./assets/badges/frontend/jest.svg" alt="" />
 <img src="./assets/badges/frontend/cypress.svg" alt="" />
+</p>
 
 ### ⚙️ Backend
 
+<p align="left">
 <img src="./assets/badges/backend/nodejs.svg" alt="" />
 <img src="./assets/badges/backend/express.svg" alt="" />
 <img src="./assets/badges/backend/nestjs.svg" alt="" />
@@ -71,9 +76,11 @@ values hard work, clean code, and building reliable systems designed to last.
 <img src="./assets/badges/backend/restapi.svg" alt="" />
 <img src="./assets/badges/backend/socket.svg" alt="" />
 <img src="./assets/badges/backend/swagger.svg" alt="" />
+</p>
 
 ### 💾 Databases & ORMs
 
+<p align="left">
 <img src="./assets/badges/databases/postgresql.svg" alt="" />
 <img src="./assets/badges/databases/mysql.svg" alt="" />
 <img src="./assets/badges/databases/mongodb.svg" alt="" />
@@ -85,9 +92,11 @@ values hard work, clean code, and building reliable systems designed to last.
 <img src="./assets/badges/databases/typeorm.svg" alt="" />
 <img src="./assets/badges/databases/sequelize.svg" alt="" />
 <img src="./assets/badges/databases/drizzle.svg" alt="" />
+</p>
 
 ### 🚀 DevOps
 
+<p align="left">
 <img src="./assets/badges/devops/git.svg" alt="" /> 
 <img src="./assets/badges/devops/githubactions.svg" alt="" /> 
 <img src="./assets/badges/devops/docker.svg" alt="" /> 
@@ -95,12 +104,15 @@ values hard work, clean code, and building reliable systems designed to last.
 <img src="./assets/badges/devops/vercel.svg" alt="" />
 <img src="./assets/badges/devops/netlify.svg" alt="" />
 <img src="./assets/badges/devops/heroku.svg" alt="" />
+</p>
 
 ### 🚀 Others
 
+<p align="left">
 <img src="./assets/badges/others/sentry.svg" alt="" /> 
 <img src="./assets/badges/others/vite.svg" alt="" /> 
 <img src="./assets/badges/others/webpack.svg" alt="" />
+</p>
 
 ## Let's Connect
 
