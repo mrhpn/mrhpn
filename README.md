@@ -2,8 +2,8 @@
   <img src="./assets/imgs/banner/image.webp" alt="Hello, I'm hpn" />
 </p>
 
-<p align="center"><a href="https://mrhpn.com" target="_blannk"><img src="./assets/badges/intro/portfolio.svg" alt="profile views" /></a>
-<a href="https://linkedin.com/in/mrhpn" target="_blannk"><img src="./assets/badges/contacts/linkedin.svg" alt="linkedin" /></a>
+<p align="center"><a href="https://mrhpn.com" target="_blank"><img src="./assets/badges/intro/portfolio.svg" alt="profile views" /></a>
+<a href="https://linkedin.com/in/mrhpn" target="_blank"><img src="./assets/badges/contacts/linkedin.svg" alt="linkedin" /></a>
 <a href="mailto:hello@mrhpn.com"><img src="./assets/badges/contacts/gmail.svg" alt="email" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrhpn&label=Profile%20Views&color=f97316&style=flat" alt="profile views" /> </p>
 
