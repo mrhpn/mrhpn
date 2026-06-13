@@ -36,82 +36,82 @@ values hard work, clean code, and building reliable systems designed to last.
 ### 📝 Languages
 
 <p align="left">
-<img src="./assets/badges/languages/javascript.svg" alt="" />
-<img src="./assets/badges/languages/typescript.svg" alt="" />
-<img src="./assets/badges/languages/golang.svg" alt="" />
+<img src="./assets/badges/languages/javascript.svg" height="32" alt="js" />
+<img src="./assets/badges/languages/typescript.svg" height="32" alt="ts" />
+<img src="./assets/badges/languages/golang.svg" height="32" alt="go" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="left">
-<img src="./assets/badges/frontend/react.svg" alt="" />
-<img src="./assets/badges/frontend/nextjs.svg" alt="" />
-<img src="./assets/badges/frontend/astro.svg" alt="" />
-<img src="./assets/badges/frontend/html5.svg" alt="" />
-<img src="./assets/badges/frontend/css3.svg" alt="" />
-<img src="./assets/badges/frontend/bootstrap.svg" alt="" />
-<img src="./assets/badges/frontend/tailwindcss.svg" alt="" />
-<img src="./assets/badges/frontend/shadcnui.svg" alt="" />
-<img src="./assets/badges/frontend/materialui.svg" alt="" />
-<img src="./assets/badges/frontend/sass.svg" alt="" />
-<img src="./assets/badges/frontend/framermotion.svg" alt="" />
-<img src="./assets/badges/frontend/tankstackquery.svg" alt="" />
-<img src="./assets/badges/frontend/zustand.svg" alt="" />
-<img src="./assets/badges/frontend/redux.svg" alt="" />
-<img src="./assets/badges/frontend/apolloclient.svg" alt="" />
-<img src="./assets/badges/frontend/jest.svg" alt="" />
-<img src="./assets/badges/frontend/cypress.svg" alt="" />
+<img src="./assets/badges/frontend/react.svg" height="32" alt="react" />
+<img src="./assets/badges/frontend/nextjs.svg" height="32" alt="nextjs" />
+<img src="./assets/badges/frontend/astro.svg" height="32" alt="astro" />
+<img src="./assets/badges/frontend/html5.svg" height="32" alt="html" />
+<img src="./assets/badges/frontend/css3.svg" height="32" alt="css" />
+<img src="./assets/badges/frontend/bootstrap.svg" height="32" alt="bootstrap" />
+<img src="./assets/badges/frontend/tailwindcss.svg" height="32" alt="tailwindcss" />
+<img src="./assets/badges/frontend/shadcnui.svg" height="32" alt="shadcnui" />
+<img src="./assets/badges/frontend/materialui.svg" height="32" alt="materialui" />
+<img src="./assets/badges/frontend/sass.svg" height="32" alt="sass" />
+<img src="./assets/badges/frontend/framermotion.svg" height="32" alt="framermotion" />
+<img src="./assets/badges/frontend/tankstackquery.svg" height="32" alt="tankstackquery" />
+<img src="./assets/badges/frontend/zustand.svg" height="32" alt="zustand" />
+<img src="./assets/badges/frontend/redux.svg" height="32" alt="redux" />
+<img src="./assets/badges/frontend/apolloclient.svg" height="32" alt="apolloclient" />
+<img src="./assets/badges/frontend/jest.svg" height="32" alt="jest" />
+<img src="./assets/badges/frontend/cypress.svg" height="32" alt="cypress" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-<img src="./assets/badges/backend/nodejs.svg" alt="" />
-<img src="./assets/badges/backend/express.svg" alt="" />
-<img src="./assets/badges/backend/nestjs.svg" alt="" />
-<img src="./assets/badges/backend/graphql.svg" alt="" />
-<img src="./assets/badges/backend/trpc.svg" alt="" />
-<img src="./assets/badges/backend/jwt.svg" alt="" />
-<img src="./assets/badges/backend/oauth2.svg" alt="" />
-<img src="./assets/badges/backend/restapi.svg" alt="" />
-<img src="./assets/badges/backend/socket.svg" alt="" />
-<img src="./assets/badges/backend/swagger.svg" alt="" />
+<img src="./assets/badges/backend/nodejs.svg" height="32" alt="nodejs" />
+<img src="./assets/badges/backend/express.svg" height="32" alt="express" />
+<img src="./assets/badges/backend/nestjs.svg" height="32" alt="nestjs" />
+<img src="./assets/badges/backend/graphql.svg" height="32" alt="graphql" />
+<img src="./assets/badges/backend/trpc.svg" height="32" alt="trpc" />
+<img src="./assets/badges/backend/jwt.svg" height="32" alt="jwt" />
+<img src="./assets/badges/backend/oauth2.svg" height="32" alt="oauth" />
+<img src="./assets/badges/backend/restapi.svg" height="32" alt="restapi" />
+<img src="./assets/badges/backend/socket.svg" height="32" alt="socket" />
+<img src="./assets/badges/backend/swagger.svg" height="32" alt="swagger" />
 </p>
 
 ### 💾 Databases & ORMs
 
 <p align="left">
-<img src="./assets/badges/databases/postgresql.svg" alt="" />
-<img src="./assets/badges/databases/mysql.svg" alt="" />
-<img src="./assets/badges/databases/mongodb.svg" alt="" />
-<img src="./assets/badges/databases/mariadb.svg" alt="" />
-<img src="./assets/badges/databases/supabase.svg" alt="" />
-<img src="./assets/badges/databases/firebase.svg" alt="" />
-<img src="./assets/badges/databases/redis.svg" alt="" />
-<img src="./assets/badges/databases/prisma.svg" alt="" />
-<img src="./assets/badges/databases/typeorm.svg" alt="" />
-<img src="./assets/badges/databases/sequelize.svg" alt="" />
-<img src="./assets/badges/databases/drizzle.svg" alt="" />
+<img src="./assets/badges/databases/postgresql.svg" height="32" alt="postgresql" />
+<img src="./assets/badges/databases/mysql.svg" height="32" alt="mysql" />
+<img src="./assets/badges/databases/mongodb.svg" height="32" alt="mongodb" />
+<img src="./assets/badges/databases/mariadb.svg" height="32" alt="mariadb" />
+<img src="./assets/badges/databases/supabase.svg" height="32" alt="supabase" />
+<img src="./assets/badges/databases/firebase.svg" height="32" alt="firebase" />
+<img src="./assets/badges/databases/redis.svg" height="32" alt="redis" />
+<img src="./assets/badges/databases/prisma.svg" height="32" alt="prisma" />
+<img src="./assets/badges/databases/typeorm.svg" height="32" alt="typeorm" />
+<img src="./assets/badges/databases/sequelize.svg" height="32" alt="sequelize" />
+<img src="./assets/badges/databases/drizzle.svg" height="32" alt="drizzle" />
 </p>
 
 ### 🚀 DevOps
 
 <p align="left">
-<img src="./assets/badges/devops/git.svg" alt="" /> 
-<img src="./assets/badges/devops/githubactions.svg" alt="" /> 
-<img src="./assets/badges/devops/docker.svg" alt="" /> 
-<img src="./assets/badges/devops/aws.svg" alt="" />
-<img src="./assets/badges/devops/vercel.svg" alt="" />
-<img src="./assets/badges/devops/netlify.svg" alt="" />
-<img src="./assets/badges/devops/heroku.svg" alt="" />
+<img src="./assets/badges/devops/git.svg" height="32" alt="git" /> 
+<img src="./assets/badges/devops/githubactions.svg" height="32" alt="githubactions" /> 
+<img src="./assets/badges/devops/docker.svg" height="32" alt="docker" /> 
+<img src="./assets/badges/devops/aws.svg" height="32" alt="aws" />
+<img src="./assets/badges/devops/vercel.svg" height="32" alt="vercel" />
+<img src="./assets/badges/devops/netlify.svg" height="32" alt="netlify" />
+<img src="./assets/badges/devops/heroku.svg" height="32" alt="heroku" />
 </p>
 
 ### 🚀 Others
 
 <p align="left">
-<img src="./assets/badges/others/sentry.svg" alt="" /> 
-<img src="./assets/badges/others/vite.svg" alt="" /> 
-<img src="./assets/badges/others/webpack.svg" alt="" />
+<img src="./assets/badges/others/sentry.svg" height="32" alt="sentry" /> 
+<img src="./assets/badges/others/vite.svg" height="32" alt="vite" /> 
+<img src="./assets/badges/others/webpack.svg" height="32" alt="webpack" />
 </p>
 
 ## Let's Connect
